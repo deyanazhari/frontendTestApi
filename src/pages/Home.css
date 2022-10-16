@@ -1,0 +1,6 @@
+.card-bio{
+    width: 100vw;
+}
+.card-img{
+    object-fit: contain;
+}
